@@ -18,7 +18,7 @@ For the purposes of these Terms and Conditions:
 
 - __Country__ refers to: California,  United States
 
-- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Recode Leadership LLC, 2108 N ST   STE N SACRAMENTO, CA 95816.
+- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Recode Leadership LLC.
 
 - __Device__ means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
