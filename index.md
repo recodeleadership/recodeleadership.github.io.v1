@@ -1,4 +1,4 @@
----
+I---
 layout: default
 ---
 
@@ -65,14 +65,14 @@ If these packages don't align perfectly with your needs, let's collaborate to de
 She is here to support your personal growth journey. With experiences spanning the industry, non-profit, startups, and government sectors, she brings a diverse perspective. Amy is ready to coach you in gaining clarity on your goals and addressing challenges, enabling you to make progress and work towards achieving your career aspirations while enhancing various aspects of your life.
 
 ## Coaching Styles
-Coaching can help you gain clarity on the next steps for your goals, the problems you are trying to solve, and the conversations you are trying to have. You will start making progress towards achieving your goals and resolving your challenges. My warm, calming, and genuine coaching style will help you feel comfortable exploring freely in a non-judgmental space. I will reflect back and ask you questions that will help you gain different perspectives and clarity. As a result, you will be able to define what your next steps should be based on what you learned during the session.
+Coaching can help you gain clarity on the next steps for your goals, the problems you are trying to solve, and the conversations you are trying to have. You will start making progress towards achieving your goals and resolving your challenges. Amy's warm, calming, and genuine coaching style will help you feel comfortable exploring freely in a non-judgmental space. She will reflect back and ask you questions that will help you gain different perspectives and clarity. As a result, you will be able to define what your next steps should be based on what you learned during the session.
 
 ## Coaching Session Expectations
 Each coaching session will roughly follow three distinct phases, including the career strategy coaching session:
 
-- **Coaching Agreement Phase**: We'll establish a coaching agreement where you'll articulate your objectives, chosen topics, and the significance of addressing them. I will ask you clarifying questions to help you gain clarity around your goals.
+- **Coaching Agreement Phase**: We'll establish a coaching agreement where you'll articulate your objectives, chosen topics, and the significance of addressing them. Amy will ask you clarifying questions to help you gain clarity around your goals.
 
-- **Exploration Phase**: Next, we'll dive into your chosen topic in depth. As you share, I'll act like your mirror by actively listening and reflecting back your thoughts, emotions, and any patterns I observe. This reflective process will help you gain self-awareness and often lead to new insights.
+- **Exploration Phase**: Next, we'll dive into your chosen topic in depth. As you share, Amy will act like your mirror by actively listening and reflecting back your thoughts, emotions, and any patterns she observes. This reflective process will help you gain self-awareness and often lead to new insights.
 
 - **Taking Action Phase**: Finally, we'll transition into action planning, identifying concrete steps you'll take between sessions and any necessary support you'll require. We'll ensure you have what you need to progress towards the next step of your goals.
 
