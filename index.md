@@ -4,12 +4,15 @@ layout: default
 
 At Recode Leadership LLC, we empower professionals to discover and embrace their unique, authentic leadership styles. We partner with individuals and companies to cultivate effective leaders, redefining traditional leadership for a diverse and thriving environment.
 
-**For professionals**:
+# Our Services
+
+## 1:1 Coaching for Professionals
+
 We understand the unique challenges you face in your career and leadership journey. If you find yourself:
 
 - Deciding on the next step of your career,
 
-- Struggling with confidence and boundaries,
+- Struggling with confidence and setting boundaries,
 
 - Feeling you don't fit the traditional mold of leaders,
   
@@ -17,17 +20,30 @@ We understand the unique challenges you face in your career and leadership journ
 
 - Facing any other challenges at work,
 
-Know that you're not alone. We believe in your potential and are here to help you achieve your career ambitions.
+Know that you're not alone. We believe in your potential and are here to partner with you in achieving your career ambitions.
 
-# Our Services
+### Offerings
+We offer different packages tailored to fit your unique needs. The following provides high-level details, as your needs will be unique, and we will work together to customize our approach during our time together.
 
-## Individual Coaching
+#### 1-Month Career Compass Taster Package
+Uncertain about what you need right now but want to experience how coaching can benefit you.
 
-- Are you unsure about your next career move? Let's find your path together.
+- 2 one-hour coaching sessions
+- Unlimited emails and voice notes support
 
-- Do you struggle with confidence and setting boundaries? Let's explore and experiment building these skills together.
+#### 3-Month Career Compass Accelerator Package
+Have a specific short-term career goal you want to achieve and seek support through the process.
 
-- Feeling you do not fit out the mold of traditional leaders? Discover your unique leadership style with us.
+- 5 one-hour coaching sessions
+- Unlimited emails and voice notes support
+
+#### 6-Month Career Compass Transformation Package
+Have one to two significant goals to work through, requiring time to explore and shift mindsets to overcome obstacles.
+
+- 10 one-hour coaching sessions
+- Unlimited emails and voice notes support
+
+If these packages don't align perfectly with your needs, let's collaborate to define a customized package that meets your specific goals and timeline.
 
 # Our Approach
 - **Personalized Coaching**: Tailored to meet your specific needs and goals.
@@ -37,9 +53,10 @@ Know that you're not alone. We believe in your potential and are here to help yo
 - **Transformative Results**: Empowering you to make a lasting impact in your professional and personal life.
 
 # Why Choose Us?
-- Meet Our Founder: Amy Mok
 
-  - **Coach**: She is a career, leadership, and executive coach. She completed her training with Coach U’s Core Essentials of the Professional Coach Training Program. She is currently an internal coach within the Federal Government.
+## Meet Our Founder: Amy Mok
+
+  - **Coach**: Amy is a career, leadership, and executive coach who completed her training with Coach U’s Core Essentials of the Professional Coach Training Program. She is currently an internal coach within the Federal Government.
 
   - **Technical Leader**: She is a technical leader with 20+ years in the field of software engineering. Her background spans various sectors, including industry, non-profit, startups, and government. She has made several career transitions throughout her career and has played different roles, including software engineer, engineering supervisor, and director of engineering.
   
