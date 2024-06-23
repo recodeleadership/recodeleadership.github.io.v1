@@ -69,7 +69,7 @@ We'd love to hear from you. Please reach out to us via [this form](https://forms
 
 Together, we can explore strategies that offer you new perspectives on how to approach your challenges and what may be the sustainable approach for you to achieve your career goals.
 
-
+To learn more about what will happen next once you've reached out, visit [our onboarding process](./onboarding-process.html).
 
 [Our privacy policy](./privacy-policy.html)
 
