@@ -54,9 +54,9 @@ If these packages don't align perfectly with your needs, let's collaborate to de
 
 # Why Choose Us?
 
-## Meet Our Founder: Amy Mok
+## Meet Our Founder: [Amy Mok](https://www.linkedin.com/in/amymok/)
 
-  - **Coach**: Amy is a career, leadership, and executive coach who completed her training with Coach U’s Core Essentials of the Professional Coach Training Program. She is currently an internal coach within the Federal Government.
+  - **Coach**: Amy is a career, leadership, and executive coach who completed her training with [Coach U’s Core Essentials](https://www.coachu.com/BecomeaCoach/ProfessionalCoachTrainingProgram/Phase1CoreEssentials/) of the [Professional Coach Training Program](https://www.coachu.com/BecomeaCoach/ProfessionalCoachTrainingProgram/). She is currently an internal coach within the Federal Government.
 
   - **Technical Leader**: She is a technical leader with 20+ years in the field of software engineering. Her background spans various sectors, including industry, non-profit, startups, and government. She has made several career transitions throughout her career and has played different roles, including software engineer, engineering supervisor, and director of engineering.
   
