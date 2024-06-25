@@ -72,7 +72,7 @@ Each coaching session will roughly follow three distinct phases, including the c
 Rest assured, everything you share in our sessions is held in strict confidence, except in cases where disclosure is necessary due to legal obligations. Prior to our sessions, we'll establish a clear agreement outlining our respective responsibilities and the confidentiality of our discussions.
 
 # Contact Us
-We'd love to hear from you. Please reach out to us via [this form](https://forms.gle/Mb3ngWVDmRrAj8ueA) for a free career strategy coaching call.
+We'd love to hear from you. **Please reach out to us via [this form](https://forms.gle/Mb3ngWVDmRrAj8ueA) for a free career strategy coaching call.**
 
 Together, we can explore strategies that offer you new perspectives on how to approach your challenges and what may be the sustainable approach for you to achieve your career goals.
 
