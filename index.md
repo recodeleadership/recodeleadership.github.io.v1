@@ -57,7 +57,7 @@ Our coaching is designed to achieve tangible outcomes for your career and person
 
 # About Us
 
-## Meet Our Founder and Chief Coach: [Amy Mok](https://www.linkedin.com/in/amymok/)
+## Meet Our Founder and Chief Coach: [Amy Mok](https://www.linkedin.com/in/amymok/) ![Amy Mok](/assets/amymok.jpeg)
 
 - **Coach**: Amy is a career, leadership, and executive coach who completed her training with [Coach U’s Core Essentials](https://www.coachu.com/BecomeaCoach/ProfessionalCoachTrainingProgram/Phase1CoreEssentials/) of the [Professional Coach Training Program](https://www.coachu.com/BecomeaCoach/ProfessionalCoachTrainingProgram/). She is currently an internal coach within the Federal Government.
 
