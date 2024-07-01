@@ -46,9 +46,18 @@ If these packages don't align perfectly with your needs, let's collaborate to de
 - **Authentic Leadership**: Helping you lead with authenticity and confidence.
 - **Transformative Results**: Empowering you to make a lasting impact in your professional and personal life.
 
-# Why Choose Us?
+## Outcomes
+Our coaching is designed to achieve tangible outcomes for your career and personal growth:
 
-## Meet Our Founder: [Amy Mok](https://www.linkedin.com/in/amymok/)
+- **Clarity and Direction**: Gain clarity on your career goals and the steps needed to achieve them.
+- **Confidence Building**: Develop confidence in your career, leadership style, and decision-making abilities.
+- **Effective Communication**: Improve communication skills to enhance workplace interactions and foster positive relationships.
+- **Goal Achievement**: Set and achieve short-term and long-term career goals effectively.
+- **Personal Growth**: Enhance self-awareness and resilience to thrive in the professional environment.
+
+# About Us
+
+## Meet Our Founder and Chief Coach: [Amy Mok](https://www.linkedin.com/in/amymok/)
 
 - **Coach**: Amy is a career, leadership, and executive coach who completed her training with [Coach U’s Core Essentials](https://www.coachu.com/BecomeaCoach/ProfessionalCoachTrainingProgram/Phase1CoreEssentials/) of the [Professional Coach Training Program](https://www.coachu.com/BecomeaCoach/ProfessionalCoachTrainingProgram/). She is currently an internal coach within the Federal Government.
 
