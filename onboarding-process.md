@@ -1,5 +1,5 @@
 # Onboarding Process
-## Step 1: Schedule a Free 30-Minute Career Strategy Call with Amy
+## Step 1: Schedule a Complimentary Career Strategy Call with Amy
 - **What We Will Do**: Bring your story and discuss your career ambitions with Amy. We will explore directions and possibilities for your career. Amy will reflect and share resources to help you take the next steps.
 - **What’s Next**: We can end it here or discuss the possibility of a continued partnership. There's no obligation to proceed if it's not your priority at the moment. Please connect with me on LinkedIn and feel free to reach out anytime I can be a resource. If you would like to continue working together, proceed to step 2.
 
@@ -7,7 +7,7 @@
 - **What We Will Do**: Amy will send you a form to write down your current state, the goal you want to achieve through coaching, and your expectations. Writing this out is the first step toward fully exploring your goal and the desired outcomes.
 - **What We Will Do**: Once you fill out the form, proceed to step 3.
 
-## Step 3: Schedule a 1-Hour Coaching Co-Creation Session
+## Step 3: Schedule a Coaching Co-Creation Session
 - **What We Will Do**: Review your pre-coaching reflection to gain more clarity on what you want to achieve and understand how you will know when you get there. We will design the rest of the coaching sessions together to maximize the benefits you get through coaching.
 - **What We Will Do**: Once we both feel ready to move forward, proceed to step 4.
 
