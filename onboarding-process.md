@@ -20,5 +20,5 @@
 - **What We Will Do**: Once you pay, proceed to step 6.
 
 ## Step 6: Schedule Your First Session
-- **What We Will Do**: Amy will send you a link to schedule all your sessions.
+- **What We Will Do**: Amy will send you a link to schedule your first session.
 - **What We Will Do**: Amy is excited to partner with you and help you move toward your goals!
