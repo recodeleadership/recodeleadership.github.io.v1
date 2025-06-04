@@ -59,7 +59,7 @@ Our coaching is designed to achieve tangible outcomes for your career and person
 
 ## Meet Our Founder and Chief Coach: [Amy Mok](https://www.linkedin.com/in/amymok/) ![Amy Mok](/assets/amymok.jpeg)
 
-- **Coach**: Amy is a career, leadership, and executive coach who completed her training with [Coach U’s Core Essentials](https://www.coachu.com/BecomeaCoach/ProfessionalCoachTrainingProgram/Phase1CoreEssentials/) of the [Professional Coach Training Program](https://www.coachu.com/BecomeaCoach/ProfessionalCoachTrainingProgram/). She was an internal coach within the Federal Government.  She is currently [an Internationl Coaching Federation's Associated Certified Coach (ICF ACC)](https://www.credly.com/badges/2b0ed60c-aa6b-4e78-b2d2-bd70b4184dea/public_url).
+- **Coach**: Amy is a career, leadership, and executive coach who completed her training with [Coach U’s Core Essentials](https://www.coachu.com/BecomeaCoach/ProfessionalCoachTrainingProgram/Phase1CoreEssentials/) of the [Professional Coach Training Program](https://www.coachu.com/BecomeaCoach/ProfessionalCoachTrainingProgram/). She was an internal coach within the Federal Government.  She is currently [an Internationl Coaching Federation's Associate Certified Coach (ICF ACC)](https://www.credly.com/badges/2b0ed60c-aa6b-4e78-b2d2-bd70b4184dea/public_url).
 
 - **Technical Leader**: She is a technical leader with 20+ years in the field of software engineering. Her background spans various sectors, including industry, non-profit, startups, and government. She has made several career transitions throughout her career and has played different roles, including software engineer, engineering supervisor, and director of engineering.
 
