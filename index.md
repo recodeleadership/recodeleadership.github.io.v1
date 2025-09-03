@@ -22,21 +22,21 @@ Know that you're not alone. We believe in your potential and are here to partner
 We offer different packages tailored to fit your unique needs. The following provides high-level details, as your needs will be unique, and we will work together to customize our approach during our time together.
 
 #### 1-Month Career Compass Taster Package
-Uncertain about what you need right now but want to experience how coaching can benefit you.
+You are unsure about what you need right now but want to get a taste of how coaching can benefit you.  This is useful if you have a very targeted need such as seeking job search support on updating your resume, understanding your strengths, exploring your workplace values.
 
 - 2 one-hour coaching sessions
 - Unlimited email and voice note support
 
 #### 3-Month Career Compass Accelerator Package
-Have a specific short-term career goal you want to achieve and seek support through the process.
+You have a very specific short-term career goal you would like to achieve and would like support to help you through the process.  This is useful if you want to work through workplace challenges that need time and space to explore and implement, such as gaining clarity on your career direction.
 
-- 5 one-hour coaching sessions
+- 6 one-hour coaching sessions
 - Unlimited email and voice note support
 
 #### 6-Month Career Compass Transformation Package
-Have one to two significant goals to work through, requiring time to explore and shift mindsets to overcome obstacles.
+You have one to two big goals you would like to work through. We need more time to explore and make mindset shifts to unblock you to achieve these big goals.  This can be useful if you want to work through workplace challenges that need more time and space to explore and implement, such as balancing conflicting values at work, building confidence and setting effective boundaries.
 
-- 10 one-hour coaching sessions
+- 12 one-hour coaching sessions
 - Unlimited email and voice note support
 
 If these packages don't align perfectly with your needs, let's collaborate to define a customized package that meets your specific goals and timeline.
