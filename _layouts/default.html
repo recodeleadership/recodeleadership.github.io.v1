@@ -18,7 +18,12 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <a href="{{ site.call_to_action_link }}" class="btn">{{ site.call_to_action }}</a>
+      {% for action in site.call_to_actions %}
+        <a href="{{ action.link }}" class="btn">{{ action.text }}</a>
+      {% endfor %}
+      {% if site.call_to_action %}
+        <a href="{{ site.call_to_action_link }}" class="btn">{{ site.call_to_action }}</a>
+      {% endif %}
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
