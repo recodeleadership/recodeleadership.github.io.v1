@@ -1,10 +1,12 @@
 ---
 ---
 
+// Headers
+$header-bg-color: #4910bc !default;
+$header-bg-color-secondary: #ebdcf9 !default;
+
 @import "{{ site.theme }}";
 
-// Headers
-$header-bg-color: #5836ad !default;
-$header-bg-color-secondary: #3ac2b4 !default;
-
-font-family: Poppins, "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: "Poppins", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
