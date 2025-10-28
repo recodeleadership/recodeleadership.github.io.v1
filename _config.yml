@@ -5,9 +5,9 @@ plugins:
 title: Recode Leadership
 description: For quiet leaders who are ready to lead with confidence so they can be recognized and valued for who they truly are.
 call_to_actions:
-  - text: Schedule a Career Strategy Call
-    link: https://forms.gle/Mb3ngWVDmRrAj8ueA
   - text: Book an Amplifying Your Strengths Session
     link: https://docs.google.com/document/d/1AszPFQlnYjo8iB_ZMEDf4kSBKofHspRiEgAz5a0kjeA/edit?usp_sharing
+  - text: Schedule a Career Strategy Call
+    link: https://forms.gle/Mb3ngWVDmRrAj8ueA
   - text: Download the Reground with Strengths Worksheet
     link: https://docs.google.com/document/d/1Ci-PnSw34yV9dL5pYFzEzbHxiGO2Wg28xwJ8j9sGgv8/edit?usp=sharing
