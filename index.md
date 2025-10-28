@@ -78,7 +78,7 @@ You’ll leave with a new way of leading — one that feels steady, grounded, an
 # 💫 Meet Amy
 ![Amy Mok](/assets/amymok.jpeg)
 
-Hi, I’m [Amy Mok](https://www.linkedin.com/in/amymok/) — a coach for quiet, high-achieving professionals who want to be recognized and valued for their impact.
+Hi, I’m [Amy Mok](https://www.linkedin.com/in/amymok/) — a coach for quiet, high-achieving leaders who want to be recognized and valued for their impact.
 
 For years, I worked hard, delivered results, and supported others quietly — yet often felt unseen.
 
