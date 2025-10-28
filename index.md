@@ -2,85 +2,94 @@
 layout: default
 ---
 
-At Recode Leadership LLC, we empower professionals to discover and embrace their unique, authentic leadership styles. We partner with individuals and companies to cultivate effective leaders, redefining traditional leadership for a diverse and thriving environment.
+You’ve always led with thoughtfulness, care, and integrity.
+But somewhere along the way, you started to wonder —
+“Do people even see the value I bring?”
 
-# Our Services
+At Recode Leadership LLC, I help and guide quiet leaders at every stage of their journey rise into recognition — by amplifying their strengths and qualities so they’re noticed and valued for who they truly are, beyond their quietness.
 
-## 1:1 Coaching for Professionals
+# If this sounds familiar, you're in the right place.
+You’re dependable, thoughtful, and deeply committed to your work.
+But lately you might find yourself:
 
-We understand the unique challenges you face in your career and leadership journey. If you find yourself:
+- Feeling overlooked, even though you deliver results.
+- Second-guessing your impact or wondering how to advocate for yourself and your team.
+- Wanting to grow — but unsure what’s holding you back.
+- Struggling to stay true to yourself while navigating cultural, confidence, or workplace expectations.
 
-- Deciding on the next step of your career,
-- Struggling with confidence and setting boundaries,
-- Feeling you don't fit the traditional mold of leaders,
-- Experiencing cultural conflicts at work, or
-- Facing any other challenges at work,
+You don’t need to become someone else to be seen.
+You just need to learn how to amplify the strengths you already have.
 
-Know that you're not alone. We believe in your potential and are here to partner with you in achieving your career ambitions.
+That’s what I help you do.
 
-### Offerings
-We offer different packages tailored to fit your unique needs. The following provides high-level details, as your needs will be unique, and we will work together to customize our approach during our time together.
+# 🌼 My Approach
+You already have the strengths that brought you here — the thoughtfulness, dedication, and quiet excellence that make you a trusted leader.
 
-#### 1-Month Career Compass Taster Package
-You are unsure about what you need right now but want to get a taste of how coaching can benefit you.  This is useful if you have a very targeted need such as seeking job search support on updating your resume, understanding your strengths, exploring your workplace values.
+But we’re often conditioned to focus on what we lack, instead of what makes us effective.
 
-- 2 one-hour coaching sessions
-- Unlimited email and voice note support
+Our work together shifts that focus. We’ll uncover and amplify the strengths and qualities that already make you exceptional — and use them to help you rise confidently toward the career and leadership you want.
 
-#### 3-Month Career Compass Accelerator Package
-You have a very specific short-term career goal you would like to achieve and would like support to help you through the process.  This is useful if you want to work through workplace challenges that need time and space to explore and implement, such as gaining clarity on your career direction.
+Through the RISE Framework, a 4-part process, you’ll learn to grow with clarity, confidence, and authenticity.
 
-- 6 one-hour coaching sessions
-- Unlimited email and voice note support
+## The RISE Framework
+1. **Recognize what’s not working** —
+We’ll start by understanding what’s keeping you unseen or stuck. You’ll gain clarity on your current challenges and the invisible patterns that may be holding you back.
 
-#### 6-Month Career Compass Transformation Package
-You have one to two big goals you would like to work through. We need more time to explore and make mindset shifts to unblock you to achieve these big goals.  This can be useful if you want to work through workplace challenges that need more time and space to explore and implement, such as balancing conflicting values at work, building confidence and setting effective boundaries.
+2. **Illuminate your strengths** —
+Together, we’ll uncover what makes you naturally effective. You’ll learn to use your authentic ways of thinking, relating, and leading as tools for visibility and influence.
 
-- 12 one-hour coaching sessions
-- Unlimited email and voice note support
+3. **Strengthen your impact** —
+You’ll practice using your voice, presence, and strategies to lead with calm authority — in a way that earns recognition while staying true to who you are.
 
-If these packages don't align perfectly with your needs, let's collaborate to define a customized package that meets your specific goals and timeline.
+4. **Elevate your leadership** —
+We’ll recode your definition of success, so you can grow your career in a way that’s sustainable, fulfilling, and aligned with your values.
 
-# Our Approach
-- **Personalized Coaching**: Tailored to meet your specific needs and goals.
-- **Authentic Leadership**: Helping you lead with authenticity and confidence.
-- **Transformative Results**: Empowering you to make a lasting impact in your professional and personal life.
+# 🌱 How We Can Work Together
+## Amplifying Your Strengths Session (50-minute 1:1)
+A focused coaching experience designed to help you clarify your strengths, see your blind spots, and take action right away.
 
-## Outcomes
-Our coaching is designed to achieve tangible outcomes for your career and personal growth:
+You'll walk away feeling lighter, clearer, and more confident about your next steps — with a framework you can use again and again.
 
-- **Clarity and Direction**: Gain clarity on your career goals and the steps needed to achieve them.
-- **Confidence Building**: Develop confidence in your career, leadership style, and decision-making abilities.
-- **Effective Communication**: Improve communication skills to enhance workplace interactions and foster positive relationships.
-- **Goal Achievement**: Set and achieve short-term and long-term career goals effectively.
-- **Personal Growth**: Enhance self-awareness and resilience to thrive in the professional environment.
+Includes:
 
-# About Us
+- A full Total 24 Charactoer Strengths Report.
+- A 50-minute 1:1 session with me, where we explore how your strengths can guide you in a scenario you bring.
+- A personalized, repeatable framework you can use to apply your strengths in future moments.
 
-## Meet Our Founder and Chief Coach: [Amy Mok](https://www.linkedin.com/in/amymok/) ![Amy Mok](/assets/amymok.jpeg)
+Perfect for quiet leaders exploring their next step or seeking focused guidance.
 
-- **Coach**: Amy is a career, leadership, and executive coach who completed her training with [Coach U’s Core Essentials](https://www.coachu.com/BecomeaCoach/ProfessionalCoachTrainingProgram/Phase1CoreEssentials/) of the [Professional Coach Training Program](https://www.coachu.com/BecomeaCoach/ProfessionalCoachTrainingProgram/). She was an internal coach within the Federal Government.  She is currently [an International Coaching Federation's Associate Certified Coach (ICF ACC)](https://www.credly.com/badges/2b0ed60c-aa6b-4e78-b2d2-bd70b4184dea/public_url).
+[**See Full Details & Book Your Session**](https://docs.google.com/document/d/1AszPFQlnYjo8iB_ZMEDf4kSBKofHspRiEgAz5a0kjeA/edit)
 
-- **Technical Leader**: She is a technical leader with 20+ years in the field of software engineering. Her background spans various sectors, including industry, non-profit, startups, and government. She has made several career transitions throughout her career and has played different roles, including software engineer, engineering supervisor, and director of engineering.
 
-- **Education**: She holds an M.S. in Software Engineering from Carnegie Mellon University and a B.A. in Computer Science from the University of California at Berkeley.
+## RISE Leadership Program (3 or 6 Months)
+A deeper journey for quiet leaders ready to grow their presence, visibility, and confidence — without sacrificing their calm, integrity, or values.
 
-She is here to support your personal growth journey. With experiences spanning the industry, non-profit, startups, and government sectors, she brings a diverse perspective. Amy is ready to coach you in gaining clarity on your goals and addressing challenges, enabling you to make progress and work towards achieving your career aspirations while enhancing various aspects of your life.
+You’ll:
 
-## Coaching Styles
-Coaching can help you gain clarity on the next steps for your goals, the problems you are trying to solve, and the conversations you are trying to have. You will start making progress towards achieving your goals and resolving your challenges. Amy's warm, calming, and genuine coaching style will help you feel comfortable exploring freely in a non-judgmental space. She will reflect back and ask you questions that will help you gain different perspectives and clarity. As a result, you will be able to define what your next steps should be based on what you learned during the session.
+- Understand what’s holding you back from being seen
+- Learn to communicate your impact with clarity
+- Build authentic confidence that lasts
+- Redefine what success and leadership mean for you
 
-## Coaching Session Expectations
-Each coaching session will roughly follow three distinct phases, including the career strategy coaching session:
+You’ll leave with a new way of leading — one that feels steady, grounded, and distinctly yours.
 
-- **Coaching Agreement Phase**: We'll establish a coaching agreement where you'll articulate your objectives, chosen topics, and the significance of addressing them. Amy will ask you clarifying questions to help you gain clarity around your goals.
-- **Exploration Phase**: Next, we'll dive into your chosen topic in depth. As you share, Amy will act like your mirror by actively listening and reflecting back your thoughts, emotions, and any patterns she observes. This reflective process will help you gain self-awareness and often lead to new insights.
-- **Taking Action Phase**: Finally, we'll transition into action planning, identifying concrete steps you'll take between sessions and any necessary support you'll require. We'll ensure you have what you need to progress towards the next step of your goals.
+[**Schedule a Career Strategy Call Now**](https://forms.gle/Mb3ngWVDmRrAj8ueA?usp_sharing)
 
-## Confidentiality and Agreement
-Rest assured, everything you share in our sessions is held in strict confidence, except in cases where disclosure is necessary due to legal obligations. Prior to our sessions, we'll establish a clear agreement outlining our respective responsibilities and the confidentiality of our discussions.
+# 💫 Meet Amy
+![Amy Mok](/assets/amymok.jpeg)
+Hi, I’m [Amy Mok](https://www.linkedin.com/in/amymok/) — a coach for quiet, high-achieving professionals who want to be recognized and valued for their impact.
 
-# Testimonials
+For years, I worked hard, delivered results, and supported others quietly — yet often felt unseen.
+
+It wasn’t until I began my own coaching journey that I realized: I didn’t need to change myself to be valued. I needed to understand my strengths, trust my voice, and lead in a way that felt like me.
+
+That’s what I help my clients do.
+
+I’m an [ICF Associate Certified Coach](https://www.credly.com/badges/2b0ed60c-aa6b-4e78-b2d2-bd70b4184dea/public_url) with over 20 years in tech leadership — from startups to the federal government. My coaching combines deep empathy, reflection, and strategy to help you find confidence that lasts.
+
+# 🌾 What Clients Say
+"Amy is a leadership coach with a **unique ability to deeply listen**. She is excellent in providing a **reflective calming space** for me to both process my thoughts and recognize what is most essential. Amy is also one of the most kind hearted people I know, and I am appreciative of our coaching sessions as each one provides a place for me to optimally **integrate my learnings** and to **show up as both a highly self-aware human being and a well grounded leader**." - KingL, Executive Leadership & Global Scaling Coach
+
 "Amy's **use of powerful questioning challenges me to think deeply and uncover insights I hadn't considered**, which helps me with my goals and motivations. Her ability to **reframe perspectives** enables me to see challenges in a more positive light, **turning obstacles into opportunities for growth**. The focus on mindset shifts has been transformative, as it helps me to use growth-oriented approach, and taking setbacks as learning experiences rather than failures." – LizM, Data Scientist
 
 "Amy has been **helpful in unfolding the challenges I face at work** based on my developmental goals. She is resourceful, encouraging and able to provide constructive feedback to work on my strengths and weaknesses areas." – ChristyT, Product Manager
@@ -91,12 +100,27 @@ Rest assured, everything you share in our sessions is held in strict confidence,
 
 "I enjoyed meeting with Amy for a 1:1 chat. She **helped me clarify actionable steps** to progress in my career search, which boosted my confidence and direction. She also shared some fantastic resources that will be invaluable for me on my journey. Her guidance was a great addition in my professional development, and I highly recommend her services to anyone seeking career advancement." – BrenishaGT, UX Designer
 
-# Contact Us
-We'd love to hear from you. **Please reach out to us via [this form](https://forms.gle/Mb3ngWVDmRrAj8ueA) for a complimentary career strategy coaching call.**
+# 🌼 Start Your Journey
+You don’t need to be the loudest voice in the room to be heard.
+You just need to own your quiet power — and learn how to let others see it.
 
-Together, we can explore strategies that offer you new perspectives on how to approach your challenges and what may be the sustainable approach for you to achieve your career goals.
+
+[✨ Book an Amplifying Your Strengths Session](https://docs.google.com/document/d/1AszPFQlnYjo8iB_ZMEDf4kSBKofHspRiEgAz5a0kjeA/edit)
+[🌱 Schedule a Career Strategy Call](https://forms.gle/Mb3ngWVDmRrAj8ueA)
+
 
 To learn more about what will happen next once you've reached out, visit [our onboarding process](./onboarding-process.html).
+
+
+# 🌿 Not Quite Ready?
+No worries! You can explore my free resources first.
+- Reground Your Strengths Framework:
+  - [🎥 Watch the recording](https://academy.govloop.com/watch/NosWAHsgss7UkGzYGLbmfb)
+  - [📝 Download the worksheet](https://docs.google.com/document/d/1Ci-PnSw34yV9dL5pYFzEzbHxiGO2Wg28xwJ8j9sGgv8/edit)
+
+- Read my writing
+  - [Being Amok](https://amymok.substack.com)
+
 
 [Our privacy policy](./privacy-policy.html)
 
