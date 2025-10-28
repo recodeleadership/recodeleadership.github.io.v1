@@ -114,7 +114,7 @@ To learn more about what will happen next once you've reached out, visit [our on
 
 # 🌿 Not Quite Ready?
 No worries! You can explore my free resources first.
-- Reground Your Strengths Framework:
+- Reground Your Strengths Framework
   - [🎥 Watch the recording](https://academy.govloop.com/watch/NosWAHsgss7UkGzYGLbmfb)
   - [📝 Download the worksheet](https://docs.google.com/document/d/1Ci-PnSw34yV9dL5pYFzEzbHxiGO2Wg28xwJ8j9sGgv8/edit)
 
