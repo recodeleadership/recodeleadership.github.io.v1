@@ -77,6 +77,7 @@ You’ll leave with a new way of leading — one that feels steady, grounded, an
 
 # 💫 Meet Amy
 ![Amy Mok](/assets/amymok.jpeg)
+
 Hi, I’m [Amy Mok](https://www.linkedin.com/in/amymok/) — a coach for quiet, high-achieving professionals who want to be recognized and valued for their impact.
 
 For years, I worked hard, delivered results, and supported others quietly — yet often felt unseen.
@@ -104,9 +105,8 @@ I’m an [ICF Associate Certified Coach](https://www.credly.com/badges/2b0ed60c-
 You don’t need to be the loudest voice in the room to be heard.
 You just need to own your quiet power — and learn how to let others see it.
 
-
-[✨ Book an Amplifying Your Strengths Session](https://docs.google.com/document/d/1AszPFQlnYjo8iB_ZMEDf4kSBKofHspRiEgAz5a0kjeA/edit)
-[🌱 Schedule a Career Strategy Call](https://forms.gle/Mb3ngWVDmRrAj8ueA)
+- [**✨ Book an Amplifying Your Strengths Session**](https://docs.google.com/document/d/1AszPFQlnYjo8iB_ZMEDf4kSBKofHspRiEgAz5a0kjeA/edit)
+- [**🌱 Schedule a Career Strategy Call**](https://forms.gle/Mb3ngWVDmRrAj8ueA)
 
 
 To learn more about what will happen next once you've reached out, visit [our onboarding process](./onboarding-process.html).
