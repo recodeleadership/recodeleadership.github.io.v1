@@ -78,17 +78,29 @@ You’ll leave with a new way of leading — one that feels steady, grounded, an
 # 💫 Meet Amy
 ![Amy Mok](/assets/amymok.jpeg)
 
-Hi, I’m [Amy Mok](https://www.linkedin.com/in/amymok/) — a coach for quiet, high-achieving leaders who want to be recognized and valued for their impact.
+Hi, I’m [Amy](https://www.linkedin.com/in/amymok/) I am the founder and leadership & executive coach at Recode Leadership.
 
-For years, I worked hard, delivered results, and supported others quietly — yet often felt unseen.
+I help quiet, high-achieving leaders to lead with confidence so they can be recognized and valued for who they truly are.
 
-It wasn’t until I began my own coaching journey that I realized: I didn’t need to change myself to be valued. I needed to understand my strengths, trust my voice, and lead in a way that felt like me.
+I wasn’t born a leader. I rarely raised my hand to lead a team or share my opinion. I quietly observed others who were eager to speak up and take charge, thinking they had it all figured out — while I silently delivered results behind the scenes.
 
-That’s what I help my clients do.
+Over time, I noticed something: people followed me. They asked for my help, sought my opinions, and trusted me to get things done. Yet I didn’t feel confident. I shied away from the spotlight because I didn’t fit the “traditional” mold of a leader — I was quiet, soft-spoken, and often let others go first.
 
-I’m an [ICF Associate Certified Coach](https://www.credly.com/badges/2b0ed60c-aa6b-4e78-b2d2-bd70b4184dea/public_url) with over 20 years in tech leadership — from startups to the federal government. My coaching combines deep empathy, reflection, and strategy to help you find confidence that lasts.
+Eventually, I realized that in order to share my gifts and help others thrive, I had to step into the discomfort of visibility. I wanted to lead — but on my own terms. Instead of mimicking what others did or what the textbooks said, I leaned into my own strengths: quiet observation, thoughtfulness, kindness, and prudence.
+
+That approach shaped my leadership journey — a 20+ year career in engineering and technology, from individual contributor roles to team lead, engineering manager, and director, across aerospace at Lockheed Martin Space Systems Company, civic tech nonprofits like Code for America, education at Hackbright Academy, and federal agencies including the Consumer Financial Protection Bureau and 18F.
+
+I currently serve as a board member at the Asian Women Coaching Collective.
+
+I earned a BA in Computer Science from UC Berkeley, an MS in Software Engineering from Carnegie Mellon University, completed the Professional Coach Training Program Phase 1: Core Essentials at CoachU, and became [an Associate Certified Coach (ACC) through the International Coaching Federation](https://www.credly.com/badges/2b0ed60c-aa6b-4e78-b2d2-bd70b4184dea/public_url).
+
+Throughout my career, I’ve also volunteered my time and expertise to causes supporting underserved communities — work that continues to be deeply meaningful to me.
+
+If you’re ready to lean into your quiet nature and lead from your strengths, you’re in the right place. I’m here to help you do just that.
 
 # 🌾 What Clients Say
+"Amy is an **exceptional leadership coach who fills a critical gap**; supporting quiet leaders who don't fit the profile of a traditional "charismatic extrovert." Amy focuses on this underserved area, understanding that some lead through listening, reflection, and considered action rather than commanding the room. Despite years in leadership roles, I was surprised by both a strength and a weakness Amy helped me identify. She was **an insightful sounding board, helping me clarify a situation I had been avoiding**. She **worked with my natural style, giving me space to think and explore while identifying patterns and practical actions**. If you are a quiet leader who has not felt that traditional leadership advice fits, I highly recommend Amy." - Government Technology Executive
+
 "Amy is a leadership coach with a **unique ability to deeply listen**. She is excellent in providing a **reflective calming space** for me to both process my thoughts and recognize what is most essential. Amy is also one of the most kind hearted people I know, and I am appreciative of our coaching sessions as each one provides a place for me to optimally **integrate my learnings** and to **show up as both a highly self-aware human being and a well grounded leader**." - KingL, Executive Leadership & Global Scaling Coach
 
 "Amy's **use of powerful questioning challenges me to think deeply and uncover insights I hadn't considered**, which helps me with my goals and motivations. Her ability to **reframe perspectives** enables me to see challenges in a more positive light, **turning obstacles into opportunities for growth**. The focus on mindset shifts has been transformative, as it helps me to use growth-oriented approach, and taking setbacks as learning experiences rather than failures." – LizM, Data Scientist
